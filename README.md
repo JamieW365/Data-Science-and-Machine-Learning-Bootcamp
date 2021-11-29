@@ -30,6 +30,9 @@ This repositry contains a number of Jupyter Notebook files developed as part of 
 
 <a name="section2"></a>
 ## Predict Movie Box Office Revenue with Linear Regression
+
+Find the Jupyter Notebook here : [01 Linear Regression](01%20Linear%20Regression.ipynb)
+
 - Learnt how to specify a Data Science problem
 - Understood the importance of data cleansing and how to do so
 - Learnt how to incorporate Python modules into Jupyter Notebook
@@ -38,6 +41,8 @@ This repositry contains a number of Jupyter Notebook files developed as part of 
 - Used Scikit Learn to estimate and interpret regression coefficients
 - Developed a statistical model and used it to make a prediction
 - Analised and evaluated regression results using metrics such as R-squared
+
+![01LinearRegression](01LinearRegression.png)
 
 <a name="section3"></a>
 ## Python Programming for Data Science and Machine Learning
