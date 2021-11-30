@@ -42,7 +42,7 @@ Find the Jupyter Notebook here : [01 Linear Regression](01%20Linear%20Regression
 - Developed a statistical model and used it to make a prediction
 - Analised and evaluated regression results using metrics such as R-squared
 
-![01LinearRegression](01LinearRegression.png)
+![01LinearRegression](images/01LinearRegression.png)
 
 <a name="section3"></a>
 ## Python Programming for Data Science and Machine Learning
