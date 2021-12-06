@@ -59,6 +59,10 @@ Find the Jupyter Notebook here : [02 Python Intro](02%20Python%20Intro.ipynb)
 - Worked with Python objects
 - Learnt how to use Python documentation to solve further problems
 
+| ![02PythonIntro](images/02PythonIntro.png) |
+|:--:|
+| *Figure 2: tissue concentration of LSD over time, taken from a 1968 study by Wagner et al.* |
+
 <a name="section4"></a>
 ## Introduction to Optimisation and the Gradient Descent Algorithm
 
@@ -75,11 +79,15 @@ Find the Jupyter Notebook here : [03 Gradient Descent](03%20Gradient%20Descent.i
 - Understood the Mean Squared Error cost function
 - Worked with nested looping in Python
 
+| ![03GradientDescent1](images/03GradientDescent1.png) | ![03GradientDescent2](images/03GradientDescent2.png) |
+|:--:|:--:|
+| *Figure 3: model showing how the learning rate effects the reliability of the cost function* | *Figure 4: 3D plot of a cost function using partial derivatives* |
+
 <a name="section5"></a>
 ## Predict House Prices with Multivariable Linear Regression
 
-Find the Jupyter Notebooks here : [04 Multivariable Regression](04%20Multivariable%20Regression.ipynb)
-                                  [05 Valuation Tool](05%20Valuation%20Tool.ipynb)
+Find the Jupyter Notebooks here : [04 Multivariable Regression](04%20Multivariable%20Regression.ipynb)\
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [05 Valuation Tool](05%20Valuation%20Tool.ipynb)
 
 - Explored a dataset by examining summary statistics, finding missing values and discovering outliers
 - Created powerful visualisations using Matplotlib and Seaborn to examine how data is distributed and see relationships present in the data
@@ -90,6 +98,10 @@ Find the Jupyter Notebooks here : [04 Multivariable Regression](04%20Multivariab
 - Evaluated models performance an learnt how to decide on a regression model using the Baysian Information Criterion
 - Understood control flow and logical operators in Python
 - Understood docstrings and optional arguments in Python
+
+| ![04MultivariableRegression1](images/04MultivariableRegression1.png) | ![04MultivariableRegression2](images/04MultivariableRegression2.png) |
+|:--:|:--:|
+| *Figure 5: heatmap showing how storngly all features within a dateframe correlate* | *Figure 6: hexagonal scatter plot showing the density of points on the chart* |
 
 <a name="section6"></a>
 ## Pre-Process Text Data for a Naive Bayes Classifier to Filter Spam Emails: Part 1
@@ -105,6 +117,10 @@ Find the Jupyter Notebook here : [06 Bayes Classifier - Pre-Processing](06%20Bay
 - Introduced to natural language processing in order to convert, stem and tokenise text data
 - Learnt how to install third party packages and dependencies
 - Learnt how to check for membership in a Python Collection
+
+| ![06BayesClassifier2](images/06BayesClassifier2.png) |
+|:--:|
+| *Figure 7: word map of Moby Dick displayed over the image of a blue whale* |
 
 <a name="section7"></a>
 ## Train a Naive Bayes Classifier to Create a Spam Filter: Part 2
